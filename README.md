@@ -1,6 +1,6 @@
 # Lab 1 - Well-Equipped
 
-# By: Joe Dvorak
+# By: Thomas Ruggles, Tyler Nichols, Amelia Bolin
 # Summary
 Lab goal; summary of work performed; summary of outcome
 Lab 1 will be somewhat different since this is an introduction to the equipment.
