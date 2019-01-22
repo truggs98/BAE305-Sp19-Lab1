@@ -20,6 +20,6 @@ List multimeters and other equipment used for testing and creating results.
 How did you test the system to get your results
 # Test Results
 What are your results?
-![](https://github.com/truggs98/BAE305-Sp19-Lab1/blob/master/Resistor%20Table-%20Lab%201.png)
+![](https://github.com/truggs98/BAE305-Sp19-Lab1/blob/master/Resistor%20Table-%202.png)
 # Discussion
 Did you make any design decisions that had an impact on the results? How did they impact the results? What do the results mean?
