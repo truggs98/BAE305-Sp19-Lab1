@@ -26,6 +26,7 @@ b) Capacitor Table
 ![](https://github.com/truggs98/BAE305-Sp19-Lab1/blob/master/Capacitor%20Table-%202.png)
 
 c) Channel Table
+![](https://github.com/truggs98/BAE305-Sp19-Lab1/blob/master/Channel%20Table-%202.png)
 
 d) Measurement Method Table
 
