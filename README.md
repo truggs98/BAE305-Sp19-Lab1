@@ -19,7 +19,15 @@ List multimeters and other equipment used for testing and creating results.
 # Test Procedures
 How did you test the system to get your results
 # Test Results
-What are your results?
+a) Resistor Table
 ![](https://github.com/truggs98/BAE305-Sp19-Lab1/blob/master/Resistor%20Table-%202.png)
+
+b) Capacitor Table
+![](https://github.com/truggs98/BAE305-Sp19-Lab1/blob/master/Capacitor%20Table-%202.png)
+
+c) Channel Table
+
+d) Measurement Method Table
+
 # Discussion
 Did you make any design decisions that had an impact on the results? How did they impact the results? What do the results mean?
