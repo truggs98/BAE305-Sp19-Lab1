@@ -37,3 +37,6 @@ d) Measurement Method Table:
 
 # Discussion
 Did you make any design decisions that had an impact on the results? How did they impact the results? What do the results mean?
+
+All the measured resistor values from part a fell within the given acceptable ranges, as did all capacitors in part b. For each channel in part c, all meaused voltages were within .15 V of the expected voltage. In part d, all of our measurement methods gave fairly accurate amplitude values, except with the generic DMM which gave a low reading. All frequency values in part d were within .2 Hz of each other, except the value obtained "counting squares", which was fairly high. 
+This information tells us
